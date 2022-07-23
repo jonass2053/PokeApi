@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(250, 249, 249 );
+}
+header
+{
+    background-color: rgb(255, 99, 99);
+  
+    
+}
+.header
+{
+    position: relative;
+}
+
+#portada
+{
+    height: 150px;
+}
+.imgpanel
+{
+    height: 400px;
+    width:600px;
+}
+
+.card h2
+{
+    color: white;
+    text-align: center;
+    background-color: rgb(255, 99, 99)
+   
+}
+.card h5
+{
+    color: rgb(255, 99, 99);
+    
+   
+}
+
+.card:hover
+{
+    box-shadow:  1px  1px 5px  black;
+}
+
+.card-body
+{
+   
+    margin-top: -70px;
+}
+
+
+.card{
+
+    width: 300px;
+  
+    display: inline-block;
+  
+    
+     padding:1px;
+     margin: 10px; 
+}
+.imgpokemon
+{
+    width: 300px;
+    margin-top: -50px;
+}
+
+.boton
+{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    height: 35px;
+}
+
+.buscar
+{
+    display: flex;
+    justify-content: center;
+}
